@@ -124,7 +124,7 @@ The vendor kernel sources and firmware `.ihex` files are in the LineageOS kernel
 
 ## Reproducing
 
-See `BUILD.md` (or `VM-RUNBOOK.md` for the long version). Short form:
+See `VM-RUNBOOK.md` for the step-by-step version. Short form:
 
 ```bash
 # on Ubuntu 22.04, 8 cores / 8 GB / 40 GB
