@@ -24,6 +24,8 @@ separate, non-obvious ways.
 | Touch | ❌ see below |
 | Wi-Fi / BT / audio / camera / modem | ❌ out of scope here |
 
+![gauguin running mainline Linux](screenshot.jpg)
+
 ## The four fixes
 
 ### 1. `fastboot erase dtbo` — required
